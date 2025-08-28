@@ -33,7 +33,7 @@ The target variable is **house price of unit area**.
   - Learning Curves  
   - Hyperparameter Tuning with GridSearchCV
 
-## 📈 Key Findings
+## Key Findings
 
 - Outliers significantly impact model performance.
 - Linear and Lasso regression performed well after handling skewness.
